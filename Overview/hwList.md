@@ -1,3 +1,5 @@
+[Back to Introduction](Introduction.md)
+
 ## [ES5152](https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el5xxx-position-measurement/el5152.html)
 
 ES5152 is an EtherCAT Terminal Card Encoder, 2-channel encoder interface, incremental, 24 V DC HTL, 100 kHz
@@ -49,3 +51,5 @@ The EK1100 EtherCAT Coupler is the link between the EtherCAT protocol at fieldbu
 The EK1100 has two RJ45 sockets. The upper Ethernet interface is used to connect the coupler to the network; the lower socket serves for the optional connection of further EtherCAT devices in the same segment. In addition, an EtherCAT junction or an EtherCAT extension can be used for the extension or for setting up a line or star topology.
 
 The EK9000 and EK1000 couplers are suitable for use at the switch.
+
+[Back to Introduction](Introduction.md)
