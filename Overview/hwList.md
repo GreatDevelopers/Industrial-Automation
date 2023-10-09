@@ -12,7 +12,7 @@ ES1008 is an EtherCAT Terminal, 8-channel digital input, 24 V DC, 3 ms
 
 Acquires the binary 24 V control signals from the process level and transmits them, in an electrically isolated form, to the higher-level automation unit. Type 1/3
 
-##[EL2809](https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el2xxx-digital-output/el2809.html)
+## [EL2809](https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el2xxx-digital-output/el2809.html)
 
 EL2809 is an EtherCAT Terminal, 16-channel digital output, 24 V DC, 0.5 A
 
@@ -23,7 +23,7 @@ Max. output current 0.5 A per channel
 Tool-free connection by direct plug-in technology for solid wire conductors
 Direct connection of multi-channel actuators in 1-wire connection technology.
 
-##[EL6002](https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el6xxx-communication/el6002.html)
+## [EL6002](https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el6xxx-communication/el6002.html)
 
 EL6002 is an EtherCAT Terminal, 2-channel communication interface, serial, RS232, D-sub
 
@@ -31,7 +31,7 @@ This serial interface enables the connection of devices with two RS232 interface
 
 In conjunction with the TwinCAT Virtual Serial COM Driver, the EL6002 can be used as a normal Windows COM interface.
 
-[EL9011](https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el9xxx-system/el9011.html)
+## [EL9011](https://www.beckhoff.com/en-en/products/i-o/ethercat-terminals/el9xxx-system/el9011.html)
 
 EL9011 is bus end cover for E-bus contacts
 
