@@ -10,6 +10,8 @@ To make our data from on computer network we will prefer technology which is Int
 1. Industrial Ethernet Switch: To connect your EtherCAT devices, including the encoder and EtherCAT master
 1. Ethernet cables to connect the all devices.
 
+A possible [List](hwList) of hardware.
+
 ## Software Requirements:
 
 1. EtherCAT Configuration Software: To set up and configure the EtherCAT network, like TwinCAT / EtherCAT Workbench /  other EtherCAT master software suites
